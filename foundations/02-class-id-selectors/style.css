@@ -1,4 +1,4 @@
-p {
+.pink {
     background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", "sans-serif";
 }
@@ -6,4 +6,8 @@ p {
 #number2 {
     color: hsl(240, 100%, 50%);
     font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
 }
